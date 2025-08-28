@@ -1,1 +1,4 @@
-psutil~=5.8.0
+psutil~=5.9.4
+aw-client~=0.5.15
+aw-core~=0.5.17
+pywin32
